@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Wally Hao — a type specimen about robotics and Linux">
-  <title>Wally Hao — Type Specimen</title>
-  <desc>A typographic specimen with red metric rules and a five-size introduction to Wally Hao's work in robotics and Linux.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="WallyHao — a type specimen about embodied intelligence and evolutionary computation">
+  <title>WallyHao — Type Specimen</title>
+  <desc>A typographic specimen with red metric rules and a five-size introduction to WallyHao's interests.</desc>
   <rect width="1200" height="420" fill="#fbf9f4"/>
   <text x="72" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#8a8478" letter-spacing="5">SPECIMEN — ONE FAMILY, FIVE SIZES</text>
   <text x="1128" y="46" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#8a8478" letter-spacing="5">SET AT 100% · NO. 001</text>
@@ -15,12 +15,12 @@
     <text x="1132" y="143">X-HT</text>
     <text x="1132" y="181">BASE</text>
   </g>
-  <text x="72" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="700" fill="#14110d" letter-spacing="-2">Wally Hao</text>
+  <text x="72" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="700" fill="#14110d" letter-spacing="-2">WallyHao</text>
   <g font-family="Georgia, 'Times New Roman', serif" fill="#14110d">
-    <text x="72" y="230" font-size="44">Wally Hao</text>
-    <text x="72" y="268" font-size="30">Wally Hao — robotics &amp; Linux</text>
-    <text x="72" y="298" font-size="19">Wally Hao — robotics &amp; Linux · SUSTech</text>
-    <text x="72" y="322" font-size="13">Wally Hao — robotics &amp; Linux · SUSTech · legged locomotion, perception, NixOS</text>
+    <text x="72" y="230" font-size="44">WallyHao</text>
+    <text x="72" y="268" font-size="30">WallyHao — embodied intelligence</text>
+    <text x="72" y="298" font-size="19">WallyHao — embodied intelligence · SUSTech</text>
+    <text x="72" y="322" font-size="13">WallyHao — embodied intelligence · SUSTech · evolutionary computation, robotics, NixOS</text>
   </g>
   <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#8a8478" text-anchor="end">
     <text x="1128" y="230">44 / 52</text>
